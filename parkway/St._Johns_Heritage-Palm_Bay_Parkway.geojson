@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway and Ellis\/John Rodes Blvd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.700241, 28.098919, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway and New I-95 Interchange", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.705803, 28.098551, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway North of 192", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.714302, 28.098598, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway and 192", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.714211, 28.078667, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway South of 192", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.7145, 28.059248, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway at City Limits", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.730484, 28.042555, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and Emerson Dr Intersection", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.736908, 28.03227, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and Pace Dr Intersection", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.737129, 28.01679, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and Malabar Rd Intersection", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.737541, 27.998968, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway South of Malabar Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.713547, 27.976263, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and Bombardier Blvd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.709091, 27.948656, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and St Andre Blvd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.708298, 27.920729, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway South of St Andre Blvd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.696808, 27.910086, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway West of Babcock St", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.688522, 27.88921, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway West of Babcock St 2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.65863, 27.888918, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway West of Babcock St 3", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.647758, 27.895803, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and Babcock St", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.622276, 27.895834, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and New I-95 Interchange", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.594704, 27.895815, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway East of Babcock\/New I-95 Interchange", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.582657, 27.895452, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Palm Bay Parkway and Micco Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.582237, 27.873598, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "South Washingtonia Dr Link", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.709946, 28.09861, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway and Eau Gallie Blvd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.709877, 28.120445, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway N of Eau Gallie Blvd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.708649, 28.12402, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway to Washingtonia Dr", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.708611, 28.135809, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway and Washingtonia Dr", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.706512, 28.140961, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St Johns Heritage Parkway\/Washingtonia and Lake Washington Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -80.706474, 28.146063, 0.0 ] } }
+]
+}
